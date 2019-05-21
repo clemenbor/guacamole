@@ -1,13 +1,20 @@
 # Guacamole recipe
 A test repository for a recipe in **Git**
 
+## Ingredients
+
 - avocado
 - onions
 - pepper
 - salt
 - oil
 
-Put in a bowl and mix everything.
+## Instructions
+
+- chop onion
+- cut open avocado and remove stone
+- scoop out flesh
+- Mix everything.
 
 
 <!-- add HTML comment -->
