@@ -4,3 +4,4 @@
 - tahini
 - olive oil
 - lemon juice
+- paprika powder
