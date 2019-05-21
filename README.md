@@ -3,6 +3,7 @@ A test repository for a recipe in **Git**
 
 - avocado
 - onions
+- pepper
 - salt
 - oil
 
