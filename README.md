@@ -1,6 +1,14 @@
 # Guacamole recipe
 A test repository for a recipe in **Git**
 
+- avocado
+- onions
+- salt
+- oil
+
+Put in a bowl and mix everything.
+
+
 <!-- add HTML comment -->
 
 - you can add bullets
