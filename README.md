@@ -17,6 +17,10 @@ A test repository for a recipe in **Git**
 - Mix everything.
 - Add seasoning.
 
+## Tips
+
+- Put your favourite TV Series on Netflix while you're cooking
+
 
 <!-- add HTML comment -->
 
