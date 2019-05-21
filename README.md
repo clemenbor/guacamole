@@ -15,6 +15,7 @@ A test repository for a recipe in **Git**
 - cut open avocado and remove stone
 - scoop out flesh
 - Mix everything.
+- Add seasoning.
 
 
 <!-- add HTML comment -->
