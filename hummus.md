@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A recipe for hummus by Clemente
 
 - chickpeas
 - tahini
