@@ -3,3 +3,4 @@
 - chickpeas
 - tahini
 - olive oil
+- lemon juice
